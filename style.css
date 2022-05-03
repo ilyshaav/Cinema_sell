@@ -1,0 +1,19 @@
+body{	
+	background-size: 110% 110%;
+	background-image: url(b2.jpeg);
+}
+
+header{
+ width: 50%;
+ background: #777777;
+ height: 100px;
+ position: fixed;
+}
+.menu{
+ list-style: none;
+ position: absolute;
+ top: 170px;
+ right: 100px;
+ background:#ffffff;
+
+}
